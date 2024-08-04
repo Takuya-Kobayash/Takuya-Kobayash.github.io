@@ -83,11 +83,17 @@ work:
     date_start: 2024-07-01
     date_end: 2024-08-31
   - position: Visiting student
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+  - position: Visiting student
     company_name: University of Cambridge
     company_url: ''
     company_logo: ''
-    date_start: 2023-10-01
-    date_end: 2023-11-31
+    date_start: 2023-07-01
+    date_end: 2023-08-31
   - position: Research Assistant
     company_name: Kyoto University
     company_url: ''
