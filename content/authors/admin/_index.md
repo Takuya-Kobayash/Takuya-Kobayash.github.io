@@ -105,7 +105,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2021-09-01
-    date_end: 2021-03-31
+    date_end: 2021-11-31
     # date_start: 2021-09-01
     # date_end: 2021-11-31
   - position: Undergraduate Researcher
