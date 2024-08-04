@@ -8,7 +8,7 @@ last_name: Kobayashi
 
 # Status emoji
 status:
-  icon: ☕
+  icon: 🧑‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,12 +17,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD candidate in Chemical Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Kyoto University | Ryoichi Yamamoto Lab
+    url: http://www-tph.cheme.kyoto-u.ac.jp
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
