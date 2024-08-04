@@ -27,7 +27,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - botton: 'Mail'
+  - icon: at-symbol
     url: 'mailto:kobayashi@cheme.kyoto-u.ac.jp'
     label: E-mail Me
   - icon: brands/github
@@ -48,12 +48,12 @@ education:
   - area: PhD in Chemical Engineering
     institution: Kyoto University
     date_start: 2023-04-01
-    date_end: 2026-03-31 (expected)
-    # summary: |
-    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
+    date_end: 2026-03-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
