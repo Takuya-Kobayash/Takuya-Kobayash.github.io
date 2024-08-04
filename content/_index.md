@@ -17,7 +17,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: glay
+        color: black
   - block: experience
     content: 
       title: Experience
