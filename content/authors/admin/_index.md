@@ -40,9 +40,9 @@ profiles:
     url: https://orcid.org/0009-0003-2298-3749
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Soft Matter
+  - Active Matter
+  - Physics of Fluids
 
 education:
   - area: PhD Artificial Intelligence
