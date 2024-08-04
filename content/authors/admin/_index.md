@@ -64,8 +64,8 @@ education:
     date_end: 2021-03-31
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: DoGS Fellow
+    company_name: Kyoto University
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
