@@ -64,12 +64,6 @@ education:
     date_end: 2021-03-31
 
 work:
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
   - position: DoGS Fellow
     company_name: Kyoto University
     company_url: ''
@@ -88,6 +82,12 @@ work:
     company_logo: ''
     date_start: 2024-07-01
     date_end: 2024-08-31
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
   - position: Visiting student
     company_name: University of Cambridge
     company_url: ''
