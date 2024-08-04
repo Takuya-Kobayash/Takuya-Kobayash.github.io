@@ -86,8 +86,6 @@ work:
     company_name: University of Cambridge
     company_url: ''
     company_logo: ''
-    date_start: 2023-10-01
-    date_end: 2023-09-31
   - position: Research Assistant
     company_name: Kyoto University
     company_url: ''
@@ -100,12 +98,10 @@ work:
     company_logo: ''
     date_start: 2021-04-01
     date_end: 2022-03-31
-  - position: Visiting student
-    company_name: University of Cambridge
+  - position: Research Assistant
+    company_name: Kyoto University
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     # date_start: 2021-09-01
     # date_end: 2021-11-31
   - position: Undergraduate Researcher
