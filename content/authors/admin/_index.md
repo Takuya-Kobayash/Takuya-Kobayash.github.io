@@ -81,7 +81,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-07-01
-    date_end: 2024-08-10
+    date_end: 2024-08-31
   - position: Visiting student
     company_name: University of Cambridge
     company_url: ''
