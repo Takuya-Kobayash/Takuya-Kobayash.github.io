@@ -48,7 +48,7 @@ education:
   - area: PhD in Chemical Engineering
     institution: Kyoto University
     date_start: 2023-04-01
-    date_end: 2026-03-31
+    date_end: 2026-03-31 (Expected)
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
