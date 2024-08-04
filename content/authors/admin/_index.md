@@ -70,12 +70,12 @@ work:
     company_logo: ''
     date_start: 2023-04-01
     date_end: 2026-03-31
-  # - position: Graduate Researcher
-  #   company_name: Kyoto University
-  #   company_url: ''
-  #   company_logo: ''
-  #   date_start: 2021-04-01
-  #   date_end: 2026-03-31
+  - position: Graduate Researcher
+    company_name: Kyoto University
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-04-01
+    date_end: 2026-03-31
   # - position: Visiting student
   #   company_name: University of Cambridge
   #   company_url: ''
