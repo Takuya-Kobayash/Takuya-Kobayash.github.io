@@ -68,24 +68,50 @@ work:
     company_name: Kyoto University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    date_start: 2023-04-01
+    date_end: 2026-03-31
+  - position: Graduate Researcher
+    company_name: Kyoto University
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2021-04-01
+    date_end: 2026-03-31
+  - position: Visiting student
+    company_name: University of Cambridge
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-08-31
+    date_end: 2024-07-01
+  - position: Visiting student
+    company_name: University of Cambridge
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-10-01
+    date_end: 2023-11-31
+  - position: Research Assistant
+    company_name: Kyoto University
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-05-01
+    date_end: 2023-03-31
+  - position: Teaching Assistant
+    company_name: Kyoto University
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-04-01
+    date_end: 2022-03-31
+  - position: Research Assistant
+    company_name: Kyoto University
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-09-01
+    date_end: 2021-11-31
+  - position: Undergraduate Researcher
+    company_name: Kyoto University
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-04-01
+    date_end: 2021-03-31
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
