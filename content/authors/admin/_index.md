@@ -100,12 +100,12 @@ work:
     company_logo: ''
     date_start: 2021-04-01
     date_end: 2022-03-31
-  # - position: Research Assistant
-  #   company_name: Kyoto University
-  #   company_url: ''
-  #   company_logo: ''
-  #   date_start: 2021-09-01
-  #   date_end: 2021-11-31
+  - position: Research Assistant
+    company_name: Kyoto University
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-09-01
+    date_end: 2021-11-31
   # - position: Undergraduate Researcher
   #   company_name: Kyoto University
   #   company_url: ''
