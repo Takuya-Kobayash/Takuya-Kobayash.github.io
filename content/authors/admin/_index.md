@@ -86,8 +86,8 @@ work:
     company_name: University of Cambridge
     company_url: ''
     company_logo: ''
-    date_start: 2023-09-01
-    date_end: 2023-09-31
+    date_start: 2023-10-01
+    date_end: 2023-11-31
   - position: Research Assistant
     company_name: Kyoto University
     company_url: ''
