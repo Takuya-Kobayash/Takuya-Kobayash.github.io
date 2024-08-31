@@ -87,7 +87,7 @@ work:
     company_url: ""
     company_logo: ""
     date_start: 2023-10-01
-    date_end: 2023-11-01
+    date_end: 2023-11-31
   - position: Research Assistant
     company_name: Kyoto University
     company_url: ""
