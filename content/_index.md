@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "🧑‍💻Takuya Kobayashi"
-date: 2022-10-24
+title: "Takuya Kobayashi"
+date: 2024-09-01
 type: landing
 
 design:
@@ -19,7 +19,7 @@ sections:
       background:
         color: black
   - block: experience
-    content: 
+    content:
       title: Experience
   # - block: collection
   #   id: papers
@@ -72,5 +72,4 @@ sections:
   #     # Reduce spacing
   #     spacing:
   #       padding: [0, 0, 0, 0]
-
 ---
