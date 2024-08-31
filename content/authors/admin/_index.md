@@ -86,13 +86,8 @@ work:
     company_name: University of Cambridge
     company_url: ""
     company_logo: ""
-<<<<<<< HEAD
-    date_start: 2023-10-01
-    date_end: 2023-11-01
-=======
     # date_start: 2023-10-01
     # date_end: 2023-11-31
->>>>>>> a209825952d41d56cf6ad6aa2fc2db5b0266159b
   - position: Research Assistant
     company_name: Kyoto University
     company_url: ""
@@ -109,13 +104,8 @@ work:
     company_name: Kyoto University
     company_url: ""
     company_logo: ""
-<<<<<<< HEAD
-    #date_start: 2021-09-01
-    #date_end: 2021-11-31
-=======
     # date_start: 2021-09-01
     # date_end: 2021-11-31
->>>>>>> a209825952d41d56cf6ad6aa2fc2db5b0266159b
   - position: Undergraduate Researcher
     company_name: Kyoto University
     company_url: ""
